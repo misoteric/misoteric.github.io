@@ -6,8 +6,14 @@ permalink: /subscribe/
 
 Blog posts to your inbox, infrequently, and never anything else.
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/miso?as_embed=true"
-></iframe><br /><br />
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/miso"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/miso', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>

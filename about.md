@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Gonzo philosophy, meandering commentary on what I've been reading, occasionally maybe poetry.
+[@misoteric](https://twitter.com/misoteric) on twitter. Email me at [misoteric@proton.me](mailto:misoteric@proton.me).
